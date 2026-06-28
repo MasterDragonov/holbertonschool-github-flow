@@ -20,3 +20,4 @@ Participants in the workshop will:
 - Open pull requests and review each other's work.
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
+* **4-listmorefiles**: Displays current directory contents in long format, including hidden files.
